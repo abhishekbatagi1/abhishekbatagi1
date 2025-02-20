@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/abhishekbatagi](https://www.linkedin.com/in/abhishek-batagi/)" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-batagi" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
 
 ---
