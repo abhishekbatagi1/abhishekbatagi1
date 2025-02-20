@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Data Visualization**
 
-- 🌱 I’m currently learning **ReactJS, AnuglarJS**
-
-- 👨‍💻 All of my projects are available at [https://beamish-starlight-1f291b.netlify.app](https://beamish-starlight-1f291b.netlify.app)
+- 🌱 I’m currently learning **Data Engineering of IoT data**
 
 - 📫 How to reach me **abhishekbatagi1@gmail.com**
 
