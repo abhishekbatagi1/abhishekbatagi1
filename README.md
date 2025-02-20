@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhishekbatagi" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
+  <a href="[https://www.linkedin.com/in/abhishekbatagi](https://www.linkedin.com/in/abhishek-batagi/)" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="spark" width="40" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/512px-Apache_kafka.svg.png" alt="kafka" width="40" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/512px-Apache_kafka.svg.png](https://e7.pngegg.com/pngimages/929/893/png-clipart-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-text-logo-thumbnail.png)" alt="kafka" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
